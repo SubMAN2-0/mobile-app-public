@@ -10,7 +10,7 @@ Welcome to the SubMAN Android App! This application helps you manage your subscr
 ## Installation
 To install the SubMAN Android App, follow these steps:
 
-1. Download the APK file from the Releases section of this repository.
+1. Download the APK file from the [Releases](https://github.com/SubMAN2-0/mobile-app-public/releases) section of this repository.
 2. Transfer the APK file to your Android device.
 3. On your Android device, navigate to the location of the APK file using a file manager app.
 4. Tap on the APK file to begin the installation process.
