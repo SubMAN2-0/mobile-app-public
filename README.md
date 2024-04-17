@@ -1,5 +1,5 @@
-# SubMAN Android App
-Welcome to the SubMAN Android App! This application helps you manage your subscriptions on the go, ensuring you stay on top of payments and expenses wherever you are.
+# SUBMAN Android App
+Welcome to the SUBMAN Android App! This application helps you manage your subscriptions on the go, ensuring you stay on top of payments and expenses wherever you are.
 
 ## Features
 1. **Subscription Tracking**: Keep a comprehensive list of all your subscriptions, including details such as name, renewal date, and cost.
